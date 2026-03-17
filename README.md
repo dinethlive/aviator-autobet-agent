@@ -1,4 +1,4 @@
-# 🔴 Aviator Autobet Agent
+# Aviator Autobet Agent
 
 > **Client-side security research tool demonstrating automated interaction techniques with the Aviator crash game**
 
