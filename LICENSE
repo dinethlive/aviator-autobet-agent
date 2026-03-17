@@ -1,0 +1,134 @@
+# LICENSE
+
+**Avitor Autobet Agent - Educational Use Only License**
+
+---
+
+## Copyright Notice
+
+Copyright (c) 2026. All rights reserved.
+
+---
+
+## License Terms
+
+### 1. Educational Purpose Only
+
+This software is provided strictly for **educational and defensive security research purposes**. By using, installing, or modifying this software, you acknowledge that:
+
+- This code is intended to help security researchers understand client-side web application vulnerabilities
+- This code serves academic purposes in studying web application security
+- This code is meant to help developers identify and fix security weaknesses in their applications
+
+### 2. Personal Use Only
+
+This software may be used **only for personal, non-commercial purposes**. This includes:
+
+- Learning about web application security
+- Conducting authorized security research on your own systems
+- Testing applications you personally own or administer
+
+### 3. Commercial Use Prohibited
+
+**Commercial use of this software is strictly prohibited.** You may not:
+
+- Use this software for any commercial purpose
+- Sell, license, or distribute this software for compensation
+- Use this software in any commercial product or service
+- Include this software in any commercial offering
+
+### 4. No Warranty
+
+This software is provided "AS IS" without warranty of any kind. The authors and contributors disclaim all warranties, including but not limited to:
+
+- Implied warranties of merchantability
+- Fitness for a particular purpose
+- Non-infringement of intellectual property rights
+
+### 5. Limitation of Liability
+
+In no event shall the authors or contributors be liable for any damages arising out of or in connection with:
+
+- The use or misuse of this software
+- Any financial losses incurred
+- Legal consequences resulting from use
+- Account termination by third-party platforms
+
+---
+
+## Prohibited Activities
+
+You are strictly prohibited from:
+
+1. **Gambling Use**: Using this software to automate betting or gambling on any platform
+2. **Unauthorized Access**: Using this software to access systems without explicit authorization
+3. **Financial Exploitation**: Using this software to exploit vulnerabilities for financial gain
+4. **Harmful Purposes**: Using this software to cause harm to any person, organization, or system
+5. **Illegal Activities**: Using this software in violation of any applicable laws or regulations
+
+---
+
+## Platform Terms of Service
+
+This software is designed to interact with third-party platforms. Using this software may violate:
+
+- Terms of Service (ToS) of targeted platforms
+- End User License Agreements (EULAs)
+- Acceptable Use Policies
+- Any other applicable platform policies
+
+Users are solely responsible for:
+
+- Understanding and complying with all applicable platform terms
+- Ensuring their use of this software is legal in their jurisdiction
+- Any consequences of using this software, including account termination
+
+---
+
+## Third-Party Rights
+
+This software is provided for educational purposes only. The developers of this software:
+
+- Do not claim ownership of any third-party platforms
+- Are not affiliated with any betting or gambling platforms
+- Do not endorse or encourage violation of platform terms
+- Bear no responsibility for third-party platform actions
+
+---
+
+## Security Research Exception
+
+This license is specifically intended for legitimate security research, including:
+
+- Understanding client-side vulnerabilities
+- Developing defensive security measures
+- Testing application security
+- Identifying and reporting vulnerabilities to affected parties
+
+If you are a security researcher intending to use this software for defensive purposes, you are encouraged to:
+
+- Obtain proper authorization before testing third-party systems
+- Report vulnerabilities responsibly to affected vendors
+- Use this knowledge to improve rather than exploit
+
+---
+
+## Termination
+
+Violation of any term in this license automatically terminates your rights to use this software. Upon termination, you must:
+
+- Stop using this software immediately
+- Remove all copies from any systems
+- Destroy any derivative works
+
+---
+
+## Contact
+
+For questions about this license, please contact the repository maintainers.
+
+---
+
+**By using this software, you agree to be bound by all terms and conditions of this license.**
+
+_This license is for educational purposes only. The maintainers assume no responsibility for misuse of this software._
