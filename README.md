@@ -1,26 +1,24 @@
-# Aviator Autobet Agent
-
-> **A client-side security research tool demonstrating advanced automated interaction techniques with the Aviator crash game through multi-layered exploit vectors including WebSocket injection, Angular memory probing, and event listener hijacking.**
-
 <p align="center">
-
-![License](https://img.shields.io/badge/License-Educational_Use_Only-orange?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Tampermonkey-brightgreen?style=for-the-badge)
-![Framework](https://img.shields.io/badge/Target-Angular_(Spribe)-red?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge)
-
+  <img src="screenshots/aviator-autobet-agent-ss-1.png" alt="Aviator Autobet Agent" width="100%"/>
 </p>
 
----
-
-## Screenshot
+<h1 align="center">Aviator Autobet Agent</h1>
 
 <p align="center">
-  <img src="screenshots/aviator-autobet-agent-ss-1.png" alt="Aviator Autobet Agent - V9 Autonomous Agent Panel overlaid on the Aviator game interface" width="900"/>
+  <strong>Multi-Vector Autonomous Betting Agent for Aviator Crash Game</strong><br/>
+  <em>WebSocket Injection + Angular Memory Probing + Event Listener Hijacking + Human Emulation</em>
 </p>
 
-<p align="center"><i>The V9 Autonomous Agent control panel running alongside the Aviator game, displaying real-time agent state, configuration dropdowns, martingale tracker, and a live execution log.</i></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Multi--Layer_Exploit_Stack-blueviolet?style=for-the-badge" alt="Architecture"/>
+  <img src="https://img.shields.io/badge/Target-Angular_(Spribe_Aviator)-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Target"/>
+  <img src="https://img.shields.io/badge/Runtime-Tampermonkey_Userscript-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white" alt="Runtime"/>
+  <img src="https://img.shields.io/badge/Protocol-SFS2X_Binary_Parser-FF6D00?style=for-the-badge" alt="Protocol"/>
+  <img src="https://img.shields.io/badge/Dependencies-Zero-success?style=for-the-badge" alt="Dependencies"/>
+  <img src="https://img.shields.io/badge/License-Educational_Use_Only-yellow?style=for-the-badge" alt="License"/>
+</p>
+
+> **WARNING: This project is strictly for educational and defensive security research purposes. It interacts with real-money gambling platforms. See the [Disclaimer](#disclaimer) section before use.**
 
 ---
 
